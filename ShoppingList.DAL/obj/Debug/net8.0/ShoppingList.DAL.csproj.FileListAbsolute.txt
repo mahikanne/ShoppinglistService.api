@@ -1,0 +1,12 @@
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\bin\Debug\net8.0\ShoppingList.DAL.deps.json
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\bin\Debug\net8.0\ShoppingList.DAL.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\bin\Debug\net8.0\ShoppingList.DAL.pdb
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.csproj.AssemblyReference.cache
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.AssemblyInfoInputs.cache
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.AssemblyInfo.cs
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.csproj.CoreCompileInputs.cache
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\refint\ShoppingList.DAL.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ShoppingList.DAL.pdb
+D:\DesignPatterns\ShoppinglistService.api\ShoppingList.DAL\obj\Debug\net8.0\ref\ShoppingList.DAL.dll

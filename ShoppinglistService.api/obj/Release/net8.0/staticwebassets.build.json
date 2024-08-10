@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PsMUegV7ccBf47IMxqobUEyX8Rdg5j4TgOcGKFwz3d4=",
+  "Source": "ShoppinglistService.api",
+  "BasePath": "_content/ShoppinglistService.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

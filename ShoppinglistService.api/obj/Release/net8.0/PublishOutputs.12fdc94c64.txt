@@ -1,0 +1,11 @@
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\ShoppinglistService.api.exe
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\ShoppinglistService.api.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\ShoppinglistService.api.deps.json
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\ShoppinglistService.api.runtimeconfig.json
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\ShoppinglistService.api.pdb
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\DesignPatterns\ShoppinglistService.api\ShoppinglistService.api\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
