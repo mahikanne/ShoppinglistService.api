@@ -8873,11 +8873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\ShoppinglistService.UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\ShoppinglistService.UnitTest.csproj",
       "projectName": "ShoppinglistService.UnitTest",
-      "projectPath": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\ShoppinglistService.UnitTest.csproj",
+      "projectPath": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\ShoppinglistService.UnitTest.csproj",
       "packagesPath": "C:\\Users\\MAHENDRA\\.nuget\\packages\\",
-      "outputPath": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -8899,8 +8899,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppinglistService.api\\ShoppinglistService.api.csproj": {
-              "projectPath": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppinglistService.api\\ShoppinglistService.api.csproj"
+            "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppinglistService.api\\ShoppinglistService.api.csproj": {
+              "projectPath": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppinglistService.api\\ShoppinglistService.api.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj": {}
+    "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj": {}
   },
   "projects": {
-    "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj": {
+    "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj",
+        "projectUniqueName": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj",
         "projectName": "ShoppingList.DAL",
-        "projectPath": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj",
+        "projectPath": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppingList.DAL\\ShoppingList.DAL.csproj",
         "packagesPath": "C:\\Users\\MAHENDRA\\.nuget\\packages\\",
-        "outputPath": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppingList.DAL\\obj\\",
+        "outputPath": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppingList.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

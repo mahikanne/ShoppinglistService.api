@@ -21,7 +21,7 @@ namespace ShoppinglistService.api.Controllers
 
 
         [HttpGet]
-        [Authorize]
+        //[Authorize]
         //[ResponseCache(Duration =10,Location =ResponseCacheLocation.Any,NoStore =false)]
         public IEnumerable<Recipe> GetAllRecipes()
         {

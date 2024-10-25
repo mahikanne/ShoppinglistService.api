@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+CiJzbwI49sTqCq+BO6mRSm7xwAQY6sQlpHcmB/mYaNsEJlQolFTAMOnOz1gD0Fccg71mz5lkXtzkMeFuE0c0A==",
+  "dgSpecHash": "a44lIqw+1XbShw4Bf5CFqxMdnz/eTlY202xRD/lYxQeFegJUytuDh+Tarp0j8gzr77fUFYHYUjz0fjThF5AQgA==",
   "success": true,
-  "projectFilePath": "D:\\DesignPatterns\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\ShoppinglistService.UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\MAHENDRA\\Source\\Repos\\ShoppinglistService.api\\ShoppinglistService.UnitTest\\ShoppinglistService.UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAHENDRA\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\MAHENDRA\\.nuget\\packages\\azure.identity\\1.11.3\\azure.identity.1.11.3.nupkg.sha512",
